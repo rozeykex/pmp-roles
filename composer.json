@@ -1,8 +1,8 @@
 {
-  "name": "joshlevinson/pmp-roles",
-  "description": "PMPro Roles - Addon for Paid Memberships Pro - Adds a WordPress Role for each Membership Level",
-  "homepage": "https://github.com/joshlevinson/pmp-roles",
-  "version": "0.2",
+  "name": "rozeykex/pmp-roles",
+  "description": "Added composer support to PMPro Roles Addon for Paid Memberships Pro - Adds a WordPress Role for each Membership Level",
+  "homepage": "https://github.com/rozeykex/pmp-roles",
+  "version": "composer",
   "license": "GPL-2.0",
   "authors": [
     {
